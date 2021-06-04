@@ -1,0 +1,2 @@
+# JSstudy
+studying for js
